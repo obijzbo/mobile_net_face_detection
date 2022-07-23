@@ -1,0 +1,13 @@
+__pycache__/
+venv/
+.idea/
+../.idea/
+*.pyc
+Error/
+resources/
+DATASETS/
+DATA/
+resources/
+STATIC/
+EVALUATION_REPORT/
+test.py
